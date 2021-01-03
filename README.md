@@ -4,4 +4,61 @@ My name is Jhonata, better known as Jhony, i love programming and everything tha
 
 However I tried to obtain a greater knowledge in the development area and from this I dedicated myself to study web development, I did some web development work during the time. In addition to being a web developer, I am also passionate about robotics with an emphasis on both commercial and residential automation, and my thirst for knowledge and continuous development encourages me to develop more and more.
 
+These are the technologies I use and I have mastery:
+
+Linguages:
+
+-HTML5
+
+-CSS3(SASS)
+
+-JavaScript
+
+-TypeScript
+
+-PHP
+
+-SQL
+
+-Dart
+
+-Java
+
+Frameworks:
+
+-Vue.js
+
+-Nuxt.ja
+
+-React.js
+
+-Node.js
+
+-Flutter
+
+-Processing
+
+Code versioning:
+
+-Git
+
+-Github
+
+-GitLab
+
+
+
+
+Social Midia:
+
+[WhatsApp](https://api.whatsapp.com/send?phone=5581983708177)
+
+[Linkedin](https://www.linkedin.com/in/jhonatavinicius2488/)
+
+[Facebook](https://www.facebook.com/jhony.araujo.dev/)
+
+[Instagram](https://www.instagram.com/jhony_araujo.dev/)
+
+[Youtube](https://www.youtube.com/channel/UCoZmtYMSL8HCgyVbSMPYaiQ)
+
 ![jhony](https://www.jhonyaraujo.com.br/_nuxt/img/d69f331.webp)
