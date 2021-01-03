@@ -49,6 +49,8 @@ Social Midia:
 
 [WhatsApp](https://api.whatsapp.com/send?phone=5581983708177)
 
+[Skype](https://join.skype.com/invite/v9azzgZrhpWh)
+
 [Linkedin](https://www.linkedin.com/in/jhonatavinicius2488/)
 
 [Facebook](https://www.facebook.com/jhony.araujo.dev/)
