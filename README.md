@@ -30,6 +30,7 @@ Frameworks:
 
 -React.js
 
+JavaScript Runtime:
 -Node.js
 
 Code versioning:
@@ -58,5 +59,7 @@ Social Midia:
 [Instagram](https://www.instagram.com/jhony_araujo.dev/)
 
 [Youtube](https://www.youtube.com/channel/UCoZmtYMSL8HCgyVbSMPYaiQ)
+
+[Behance](https://www.behance.net/jhonyaraujo)
 
 ![jhony](https://www.jhonyaraujo.com.br/_nuxt/img/d69f331.webp)
