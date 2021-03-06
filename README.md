@@ -22,27 +22,37 @@ However I tried to obtain a greater knowledge in the development area and from t
  <img src="https://raw.githubusercontent.com/jhony2488/images/master/icon_sql_256_30046.png" height="90px" width="90px" /> 
   <img src="https://raw.githubusercontent.com/jhony2488/images/master/file_type_ng_service_dart_icon_130315.png" height="90px" width="90px" />  
 </div>
-
- HTML5, CSS3 (SASS), JavaScript, TypeScript, PHP, SQL, Dart
  
  <h3 align="center">
    Frameworks CSS:
 </h3>
+<div align="center">
+ <img src="https://raw.githubusercontent.com/jhony2488/images/master/bootstrap_plain_wordmark_logo_icon_146620.png" height="90px" width="90px" /> 
+</div>
 
 <h3 align="center">
    Frameworks JavaScript:
 </h3>
-
-Vue.js, Nuxt.js
+<div align="center">
+ <img src="https://raw.githubusercontent.com/jhony2488/images/master/vuejs_original_wordmark_logo_icon_146305.png" height="90px" width="90px" /> 
+  <img src="https://raw.githubusercontent.com/jhony2488/images/master/file_type_nuxt_icon_130293.png" height="90px" width="90px" /> 
+</div>
 
 <h3 align="center">
    JavaScript Runtime
 </h3>
+<div align="center">
+ <img src="https://raw.githubusercontent.com/jhony2488/images/master/nodejs_original_wordmark_logo_icon_146412.png" height="90px" width="90px" />
+</div>
 Node.js
 
 <h3 align="center">
    Databases
 </h3>
+<div align="center">
+ <img src="https://raw.githubusercontent.com/jhony2488/images/master/mysql_original_wordmark_logo_icon_146417.png" height="90px" width="90px" /> 
+ <img src="https://github.com/jhony2488/images/blob/master/mongodb_original_wordmark_logo_icon_146425.png" height="90px" width="90px" /> 
+</div>
 
 <h2 align="center">
     Social media 
