@@ -6,60 +6,18 @@ However I tried to obtain a greater knowledge in the development area and from t
 
 These are the technologies I use and I have mastery:
 
-Linguages:
+Languages: HTML5, CSS3 (SASS), JavaScript, TypeScript, PHP, SQL, Dart
 
--HTML5
+Frameworks: Vue.js, Nuxt.js
 
--CSS3(SASS)
+JavaScript Runtime: Node.js
 
--JavaScript
-
--TypeScript
-
--PHP
-
--SQL
-
--Dart
-
-Frameworks:
-
--Vue.js
-
--Nuxt.ja
-
--React.js
-
-JavaScript Runtime:
--Node.js
-
-Code versioning:
-
--Git
-
--Github
-
--GitLab
-
--Azure Repos
+Code versioning: Git, Github, GitLab, Azure Repos
 
 
-
-
-Social Midia:
-
-[WhatsApp](https://api.whatsapp.com/send?phone=5581983708177)
-
-[Skype](https://join.skype.com/invite/v9azzgZrhpWh)
-
-[Linkedin](https://www.linkedin.com/in/jhonatavinicius2488/)
-
-[Facebook](https://www.facebook.com/jhony.araujo.dev/)
-
-[Instagram](https://www.instagram.com/jhony_araujo.dev/)
-
-[Youtube](https://www.youtube.com/channel/UCoZmtYMSL8HCgyVbSMPYaiQ)
-
-[Behance](https://www.behance.net/jhonyaraujo)
+Social Midia:[Twitter](https://twitter.com/JhonyAraujoDev) [Linkedin](https://www.linkedin.com/in/jhonatavinicius2488/) [Skype](https://join.skype.com/invite/v9azzgZrhpWh) [Facebook](https://www.facebook.com/jhony.araujo.dev/) [Instagram](https://www.instagram.com/jhony_araujo.dev/)
+[WhatsApp](https://api.whatsapp.com/send?phone=5581983708177)[Behance](https://www.behance.net/jhonyaraujo)
 
 ![jhony](https://www.jhonyaraujo.com.br/_nuxt/img/d69f331.webp)
+
+
