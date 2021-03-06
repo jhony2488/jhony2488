@@ -12,6 +12,16 @@ However I tried to obtain a greater knowledge in the development area and from t
 <h3 align="center">
     Languages
 </h3>
+<div align="center">
+ <img src="https://raw.githubusercontent.com/jhony2488/images/master/html_original_wordmark_logo_icon_146478.png" height="90px" width="90px" />
+ <img src="https://raw.githubusercontent.com/jhony2488/images/master/css_original_wordmark_logo_icon_146576.png" height="90px" width="90px" />
+ <img src="https://raw.githubusercontent.com/jhony2488/images/master/folder_sass_icon_161283.png" height="90px" width="90px" />
+ <img src="https://raw.githubusercontent.com/jhony2488/images/master/javascript_icon_130900.png" height="90px" width="90px" />
+ <img src="https://raw.githubusercontent.com/jhony2488/images/master/typescript_plain_logo_icon_146316.png" height="90px" width="90px" />
+ <img src="https://raw.githubusercontent.com/jhony2488/images/master/php_icon_130857.png" height="90px" width="90px" /> 
+ <img src="https://raw.githubusercontent.com/jhony2488/images/master/icon_sql_256_30046.png" height="90px" width="90px" /> 
+  <img src="https://raw.githubusercontent.com/jhony2488/images/master/dart_button_icon_151933.png" height="90px" width="90px" />  
+</div>
 
  HTML5, CSS3 (SASS), JavaScript, TypeScript, PHP, SQL, Dart
  
@@ -28,12 +38,11 @@ Vue.js, Nuxt.js
 <h3 align="center">
    JavaScript Runtime
 </h3>
-: Node.js
+Node.js
 
 <h3 align="center">
-   Code versioning
+   Databases
 </h3>
-Git, Github, GitLab, Azure Repos
 
 <h2 align="center">
     Social media 
@@ -48,9 +57,6 @@ Git, Github, GitLab, Azure Repos
 <a href="https://api.whatsapp.com/send?phone=5581983708177"><img src="https://raw.githubusercontent.com/jhony2488/images/master/whatsapp.png" height="60px" width="60px" /></a>
 <a href="https://www.behance.net/jhonyaraujo"><img src="https://raw.githubusercontent.com/jhony2488/images/master/behance.png" height="60px" width="60px" /></a>
 </div>
-
-
-<a href="https://pt-br.reactjs.org/"><img src="https://www.jhonyaraujo.com.br/_nuxt/img/d69f331.webp" height="90px" width="90px" /></a>
 
 
 
