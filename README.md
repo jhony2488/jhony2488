@@ -27,7 +27,7 @@ However I tried to obtain a greater knowledge in the development area and from t
    Frameworks CSS:
 </h3>
 <div align="center">
- <img src="https://raw.githubusercontent.com/jhony2488/images/master/bootstrap_plain_wordmark_logo_icon_146620.png" height="90px" width="90px" /> 
+ <img src="https://raw.githubusercontent.com/jhony2488/images/master/bootstrap_plain_wordmark_logo_icon_146620.png" height="120px" width="120px" /> 
 </div>
 
 <h3 align="center">
@@ -42,7 +42,7 @@ However I tried to obtain a greater knowledge in the development area and from t
    JavaScript Runtime
 </h3>
 <div align="center">
- <img src="https://raw.githubusercontent.com/jhony2488/images/master/nodejs_original_wordmark_logo_icon_146412.png" height="90px" width="90px" />
+ <img src="https://raw.githubusercontent.com/jhony2488/images/master/nodejs_original_wordmark_logo_icon_146412.png" height="120px" width="120px" />
 </div>
 Node.js
 
@@ -50,8 +50,8 @@ Node.js
    Databases
 </h3>
 <div align="center">
- <img src="https://raw.githubusercontent.com/jhony2488/images/master/mysql_original_wordmark_logo_icon_146417.png" height="90px" width="90px" /> 
- <img src="https://github.com/jhony2488/images/blob/master/mongodb_original_wordmark_logo_icon_146425.png" height="90px" width="90px" /> 
+ <img src="https://raw.githubusercontent.com/jhony2488/images/master/mysql_original_wordmark_logo_icon_146417.png" height="120px" width="120px" /> 
+ <img src="https://github.com/jhony2488/images/blob/master/mongodb_original_wordmark_logo_icon_146425.png" height="120px" width="120px" /> 
 </div>
 
 <h2 align="center">
