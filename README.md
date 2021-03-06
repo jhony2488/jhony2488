@@ -1,6 +1,7 @@
 <h1 align="center">
-    Hi there 👋
+    Hi there 👋 
 </h1>
+<img src="https://www.jhonyaraujo.com.br/_nuxt/img/d69f331.webp" height="90px" width="90px" />
 
 My name is Jhonata, better known as Jhony, i love programming and everything that involves the IT area,I am currently working as a freenlance full stack developer and I am also studying systems analysis and development at [UNOPAR](http://unopar.br/) My entry into the world of development started when I was studying industrial automation technician at SENAI, in which this course allowed me to gain knowledge of all areas of integrated technology, of course it was not so deep. 
 
@@ -21,6 +22,6 @@ Social Midia:[Twitter](https://twitter.com/JhonyAraujoDev) [Linkedin](https://ww
 [WhatsApp](https://api.whatsapp.com/send?phone=5581983708177)[Behance](https://www.behance.net/jhonyaraujo)
 
 
-<img src="https://www.jhonyaraujo.com.br/_nuxt/img/d69f331.webp" height="36px" width="36px" />
+
 
 
