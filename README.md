@@ -44,7 +44,6 @@ However I tried to obtain a greater knowledge in the development area and from t
 <div align="center">
  <img src="https://raw.githubusercontent.com/jhony2488/images/master/nodejs_original_wordmark_logo_icon_146412.png" height="120px" width="120px" />
 </div>
-Node.js
 
 <h3 align="center">
    Databases
