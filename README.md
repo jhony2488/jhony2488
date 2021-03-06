@@ -5,19 +5,39 @@ My name is Jhonata, better known as Jhony, i love programming and everything tha
 
 However I tried to obtain a greater knowledge in the development area and from this I dedicated myself to study web development, I did some web development work during the time. In addition to being a web developer, I am also passionate about robotics with an emphasis on both commercial and residential automation, and my thirst for knowledge and continuous development encourages me to develop more and more.
 
-These are the technologies I use and I have mastery:
-
-Languages: HTML5, CSS3 (SASS), JavaScript, TypeScript, PHP, SQL, Dart
-
-Frameworks: Vue.js, Nuxt.js
-
-JavaScript Runtime: Node.js
-
-Code versioning: Git, Github, GitLab, Azure Repos
+<h2 align="center">
+    These are the technologies I use and I have mastery
+</h2>
 
 <h3 align="center">
-    Social media 
+    Languages
 </h3>
+
+ HTML5, CSS3 (SASS), JavaScript, TypeScript, PHP, SQL, Dart
+ 
+ <h3 align="center">
+   Frameworks CSS:
+</h3>
+
+<h3 align="center">
+   Frameworks JavaScript:
+</h3>
+
+Vue.js, Nuxt.js
+
+<h3 align="center">
+   JavaScript Runtime
+</h3>
+: Node.js
+
+<h3 align="center">
+   Code versioning
+</h3>
+Git, Github, GitLab, Azure Repos
+
+<h2 align="center">
+    Social media 
+</h2>
 
 <div align="center">
 <a href="https://twitter.com/JhonyAraujoDev" align="center"><img src="https://raw.githubusercontent.com/jhony2488/images/master/twitter.png" height="60px" width="60px" /></a>
