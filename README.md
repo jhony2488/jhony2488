@@ -20,7 +20,7 @@ However I tried to obtain a greater knowledge in the development area and from t
  <img src="https://raw.githubusercontent.com/jhony2488/images/master/typescript_plain_logo_icon_146316.png" height="90px" width="90px" />
  <img src="https://raw.githubusercontent.com/jhony2488/images/master/php_icon_130857.png" height="90px" width="90px" /> 
  <img src="https://raw.githubusercontent.com/jhony2488/images/master/icon_sql_256_30046.png" height="90px" width="90px" /> 
-  <img src="https://raw.githubusercontent.com/jhony2488/images/master/dart_button_icon_151933.png" height="90px" width="90px" />  
+  <img src="https://raw.githubusercontent.com/jhony2488/images/master/file_type_ng_service_dart_icon_130315.png" height="90px" width="90px" />  
 </div>
 
  HTML5, CSS3 (SASS), JavaScript, TypeScript, PHP, SQL, Dart
