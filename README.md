@@ -6,7 +6,7 @@ My name is Jhonata, better known as Jhony, i love programming and everything tha
 However I tried to obtain a greater knowledge in the development area and from this I dedicated myself to study web development, I did some web development work during the time. In addition to being a web developer, I am also passionate about robotics with an emphasis on both commercial and residential automation, and my thirst for knowledge and continuous development encourages me to develop more and more.
 
 <h2 align="center">
-    These are the technologies I use and I have mastery
+    These are the technologies I use 
 </h2>
 
 <h3 align="center">
