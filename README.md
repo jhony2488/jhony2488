@@ -22,7 +22,7 @@ However I tried to obtain a greater knowledge in the development area and from t
  <img src="https://raw.githubusercontent.com/jhony2488/images/master/icon_sql_256_30046.png" height="90px" width="90px" /> 
   <img src="https://raw.githubusercontent.com/jhony2488/images/master/file_type_ng_service_dart_icon_130315.png" height="90px" width="90px" />  
 </div>
- 
+
  <h3 align="center">
    Frameworks CSS:
 </h3>
@@ -43,6 +43,13 @@ However I tried to obtain a greater knowledge in the development area and from t
 </h3>
 <div align="center">
  <img src="https://raw.githubusercontent.com/jhony2488/images/master/nodejs_original_wordmark_logo_icon_146412.png" height="120px" width="120px" />
+</div>
+
+ <h3 align="center">
+    Development Tools:
+</h3>
+<div align="center">
+ <img src="https://raw.githubusercontent.com/jhony2488/images/master/wordpress_icon-icons.com_53600.png" height="120px" width="120px" />
 </div>
 
 <h3 align="center">
