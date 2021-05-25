@@ -5,6 +5,8 @@ My name is Jhonata, better known as Jhony, i love programming and everything tha
 
 However I tried to obtain a greater knowledge in the development area and from this I dedicated myself to study web development, I did some web development work during the time. In addition to being a web developer, I am also passionate about robotics with an emphasis on both commercial and residential automation, and my thirst for knowledge and continuous development encourages me to develop more and more.
 
+If you want to know more about me, you can access my  <a href="https://jhonyaraujo.netlify.app/" align="center">website</a>
+
 <h2 align="center">
     These are the technologies I use 
 </h2>
@@ -65,7 +67,6 @@ However I tried to obtain a greater knowledge in the development area and from t
 </h2>
 
 <div align="center">
-<a href="https://jhonyaraujo.netlify.app/" align="center"><img src="https://raw.githubusercontent.com/jhony2488/images/master/portfolio%20(1).png" height="60px" width="60px" /></a>
 <a href="https://twitter.com/JhonyAraujoDev" align="center"><img src="https://raw.githubusercontent.com/jhony2488/images/master/twitter.png" height="60px" width="60px" /></a>
 <a href="https://www.linkedin.com/in/jhonatavinicius2488/"><img src="https://raw.githubusercontent.com/jhony2488/images/master/linkedin.png" style="margin-left:10px;" height="60px" width="60px" /></a>
 <a href="https://join.skype.com/invite/v9azzgZrhpWh"><img src="https://raw.githubusercontent.com/jhony2488/images/master/skype%20(1).png" height="60px" width="60px" /></a>
