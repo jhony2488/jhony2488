@@ -65,12 +65,12 @@ However I tried to obtain a greater knowledge in the development area and from t
 </h2>
 
 <div align="center">
-<a href="https://www.jhonyaraujo.com.br/" align="center"><img src="https://raw.githubusercontent.com/jhony2488/images/master/portfolio%20(1).png" height="60px" width="60px" /></a>
+<a href="https://jhonyaraujo.netlify.app/" align="center"><img src="https://raw.githubusercontent.com/jhony2488/images/master/portfolio%20(1).png" height="60px" width="60px" /></a>
 <a href="https://twitter.com/JhonyAraujoDev" align="center"><img src="https://raw.githubusercontent.com/jhony2488/images/master/twitter.png" height="60px" width="60px" /></a>
 <a href="https://www.linkedin.com/in/jhonatavinicius2488/"><img src="https://raw.githubusercontent.com/jhony2488/images/master/linkedin.png" style="margin-left:10px;" height="60px" width="60px" /></a>
 <a href="https://join.skype.com/invite/v9azzgZrhpWh"><img src="https://raw.githubusercontent.com/jhony2488/images/master/skype%20(1).png" height="60px" width="60px" /></a>
 <a href="https://www.facebook.com/jhony.araujo.dev/"><img src="https://raw.githubusercontent.com/jhony2488/images/master/facebook%20(1).png" height="60px" width="60px" /></a>
-<a href="https://www.instagram.com/jhony_araujo.dev/"><img src="https://raw.githubusercontent.com/jhony2488/images/master/instagram.png" height="60px" width="60px" /></a>
+<a href="https://www.instagram.com/jhonyaraujo_oficial/"><img src="https://raw.githubusercontent.com/jhony2488/images/master/instagram.png" height="60px" width="60px" /></a>
 <a href="https://api.whatsapp.com/send?phone=5581983708177"><img src="https://raw.githubusercontent.com/jhony2488/images/master/whatsapp.png" height="60px" width="60px" /></a>
 <a href="https://www.behance.net/jhonyaraujo"><img src="https://raw.githubusercontent.com/jhony2488/images/master/behance.png" height="60px" width="60px" /></a>
 </div>
