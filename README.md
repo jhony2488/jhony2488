@@ -1,14 +1,14 @@
 <h1 align="center">
-    Hi there 👋 
+    Olá 👋 tudo bem? 
 </h1>
-My name is Jhonata, better known as Jhony, i love programming and everything that involves the IT area,I am currently working as a freenlance full stack developer and I am also studying systems analysis and development at <a href="http://unopar.br/">UNOPAR</a> My entry into the world of development started when I was studying industrial automation technician at SENAI, in which this course allowed me to gain knowledge of all areas of integrated technology, of course it was not so deep. 
 
-However I tried to obtain a greater knowledge in the development area and from this I dedicated myself to study web development, I did some web development work during the time. In addition to being a web developer, I am also passionate about robotics with an emphasis on both commercial and residential automation, and my thirst for knowledge and continuous development encourages me to develop more and more.
+Meu nome é Jhonata Vinicius mais conhecido como Jhony, sou desenvolvedor FullStack Freelancer. Sou apaixonado por criar soluções para Web. Sou formado no curso técnico em Automação Industrial e, atualmente, curso Análise e Desenvolvimento de Sistemas. Eu me considero  um aprendiz para toda a vida e sou um forte adpto forte de #lifelonglearning. Portanto, estou sempre procurando  aprender coisas novas, interagir com pessoas de diferentes níveis em comunidades, entre outros. 
+
 
 If you want to know more about me, you can access my  <a href="https://jhonyaraujo.netlify.app/" align="center">website</a>
 
 <h2 align="center">
-    These are the technologies I use 
+Estas são as tecnologias que uso
 </h2>
 
 <h3 align="center">
@@ -53,7 +53,7 @@ If you want to know more about me, you can access my  <a href="https://jhonyarau
 </div>
 
  <h3 align="center">
-    CMS(Sistemas de gerenciamentos de conteúdo):
+    CMS(Sistemas de gerenciamentos de conteúdo)
 </h3>
 <div align="center">
  <a href="https://wordpress.org/" align="center">Wordpress</a>
