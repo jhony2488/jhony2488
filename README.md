@@ -12,7 +12,7 @@ If you want to know more about me, you can access my  <a href="https://jhonyarau
 </h2>
 
 <h3 align="center">
-    Languages
+    Linguagens
 </h3>
 <div align="center">
  <img src="https://raw.githubusercontent.com/jhony2488/images/master/html_original_wordmark_logo_icon_146478.png" height="90px" width="90px" />
@@ -67,10 +67,14 @@ If you want to know more about me, you can access my  <a href="https://jhonyarau
 </h2>
 
 <div align="center">
-<a href="https://twitter.com/JhonyAraujoDev" align="center">Twitter</a>
+Twitter:<a href="https://twitter.com/JhonyAraujoDev" align="center">Twitter</a>
+ <br/>
 <a href="https://www.linkedin.com/in/jhonatavinicius2488/">Linkedin</a>
+      <br/>
 <a href="https://www.facebook.com/jhony.araujo.dev/">Facebook</a>
+      <br/>
 <a href="https://www.instagram.com/jhonyaraujo_oficial/">Instagram></a>
+      <br/>
 <a href="https://www.behance.net/jhonyaraujo">Behance</a>
 </div>
 
