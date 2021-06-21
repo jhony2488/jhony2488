@@ -5,7 +5,7 @@
 Meu nome é Jhonata Vinicius mais conhecido como Jhony, sou desenvolvedor FullStack Freelancer. Sou apaixonado por criar soluções para Web. Sou formado no curso técnico em Automação Industrial e, atualmente, curso Análise e Desenvolvimento de Sistemas. Eu me considero  um aprendiz para toda a vida e sou um forte adpto forte de #lifelonglearning. Portanto, estou sempre procurando  aprender coisas novas, interagir com pessoas de diferentes níveis em comunidades, entre outros. 
 
 
-If you want to know more about me, you can access my  <a href="https://jhonyaraujo.netlify.app/" align="center">website</a>
+Se você quiser saber mais sobre mim, pode acessar o meu  <a href="https://jhonyaraujo.netlify.app/" align="center">site</a>
 
 <h2 align="center">
 Estas são as tecnologias que uso
