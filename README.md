@@ -63,19 +63,22 @@ If you want to know more about me, you can access my  <a href="https://jhonyarau
 </div>
 
 <h2 align="center">
-    Social media 
+    👁‍🗨 Siga-me
 </h2>
 
 <div align="center">
-<a href="https://twitter.com/JhonyAraujoDev" align="center"><img src="https://raw.githubusercontent.com/jhony2488/images/master/twitter.png" height="60px" width="60px" /></a>
-<a href="https://www.linkedin.com/in/jhonatavinicius2488/"><img src="https://raw.githubusercontent.com/jhony2488/images/master/linkedin.png" style="margin-left:10px;" height="60px" width="60px" /></a>
-<a href="https://join.skype.com/invite/v9azzgZrhpWh"><img src="https://raw.githubusercontent.com/jhony2488/images/master/skype%20(1).png" height="60px" width="60px" /></a>
-<a href="https://www.facebook.com/jhony.araujo.dev/"><img src="https://raw.githubusercontent.com/jhony2488/images/master/facebook%20(1).png" height="60px" width="60px" /></a>
-<a href="https://www.instagram.com/jhonyaraujo_oficial/"><img src="https://raw.githubusercontent.com/jhony2488/images/master/instagram.png" height="60px" width="60px" /></a>
-<a href="https://api.whatsapp.com/send?phone=5581983708177"><img src="https://raw.githubusercontent.com/jhony2488/images/master/whatsapp.png" height="60px" width="60px" /></a>
-<a href="https://www.behance.net/jhonyaraujo"><img src="https://raw.githubusercontent.com/jhony2488/images/master/behance.png" height="60px" width="60px" /></a>
+<a href="https://twitter.com/JhonyAraujoDev" align="center">Twitter</a>
+<a href="https://www.linkedin.com/in/jhonatavinicius2488/">Linkedin</a>
+<a href="https://www.facebook.com/jhony.araujo.dev/">Facebook</a>
+<a href="https://www.instagram.com/jhonyaraujo_oficial/">Instagram></a>
+<a href="https://www.behance.net/jhonyaraujo">Behance</a>
 </div>
 
+<h2 align="center">
+    👁‍🗨 Como entrar em contato comigo?  
+</h2>
+<a href="https://api.whatsapp.com/send?phone=5581983708177">WhatsApp</a>
+<a href="https://join.skype.com/invite/v9azzgZrhpWh"><img src="https://raw.githubusercontent.com/jhony2488/images/master/skype%20(1).png" height="60px" width="60px" /></a>
 
 
 
