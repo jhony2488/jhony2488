@@ -15,14 +15,18 @@ If you want to know more about me, you can access my  <a href="https://jhonyarau
     Linguagens
 </h3>
 <div align="center">
- <img src="https://raw.githubusercontent.com/jhony2488/images/master/html_original_wordmark_logo_icon_146478.png" height="90px" width="90px" />
- <img src="https://raw.githubusercontent.com/jhony2488/images/master/css_original_wordmark_logo_icon_146576.png" height="90px" width="90px" />
- <img src="https://raw.githubusercontent.com/jhony2488/images/master/folder_sass_icon_161283.png" height="90px" width="90px" />
- <img src="https://raw.githubusercontent.com/jhony2488/images/master/javascript_icon_130900.png" height="90px" width="90px" />
- <img src="https://raw.githubusercontent.com/jhony2488/images/master/typescript_plain_logo_icon_146316.png" height="90px" width="90px" />
- <img src="https://raw.githubusercontent.com/jhony2488/images/master/php_icon_130857.png" height="90px" width="90px" /> 
- <img src="https://raw.githubusercontent.com/jhony2488/images/master/icon_sql_256_30046.png" height="90px" width="90px" /> 
-  <img src="https://raw.githubusercontent.com/jhony2488/images/master/file_type_ng_service_dart_icon_130315.png" height="90px" width="90px" />  
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" align="center">HTML</a>,
+      <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" align="center">CSS(SASS)</a>,
+        <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" align="center">JavaScript</a>
+ ,
+           <a href="https://www.typescriptlang.org/" align="center">TypeScript</a>
+ ,
+             <a href="https://www.typescriptlang.org/" align="center">PHP</a>
+ ,
+                 <a href="https://www.typescriptlang.org/" align="center">SQL</a>
+ ,
+                     <a href="https://www.typescriptlang.org/" align="center">DART</a>
+ <br/>
 </div>
 
  <h3 align="center">
@@ -30,17 +34,14 @@ If you want to know more about me, you can access my  <a href="https://jhonyarau
 </h3>
 <div align="center">
 <a href="https://getbootstrap.com/" align="center">Bootstrap</a>
- <br/>
 </div>
 
 <h3 align="center">
    Frameworks JavaScript:
 </h3>
 <div align="center"> 
-    <a href="https://vuejs.org/" align="center">Vue.js</a>
- <br/>
+    <a href="https://vuejs.org/" align="center">Vue.js</a>,
   <a href="https://nuxtjs.org/" align="center">Nuxt.js</a>
- <br/>
 </div>
 
 <h3 align="center">
@@ -56,15 +57,13 @@ If you want to know more about me, you can access my  <a href="https://jhonyarau
 </h3>
 <div align="center">
  <a href="https://wordpress.org/" align="center">Wordpress</a>
- <br/>
 </div>
 
 <h3 align="center">
    Databases
 </h3>
 <div align="center"> 
-    <a href="https://www.mysql.com/" align="center">MySQL</a>
- <br/>
+    <a href="https://www.mysql.com/" align="center">MySQL</a>,
         <a href="https://www.mongodb.com/" align="center">MongoDB</a>
  <br/>
 </div>
@@ -80,7 +79,7 @@ If you want to know more about me, you can access my  <a href="https://jhonyarau
       <br/>
 <a href="https://www.facebook.com/jhony.araujo.dev/">Facebook</a>
       <br/>
-<a href="https://www.instagram.com/jhonyaraujo_oficial/">Instagram></a>
+<a href="https://www.instagram.com/jhonyaraujo_oficial/">Instagram</a>
       <br/>
 <a href="https://www.behance.net/jhonyaraujo">Behance</a>
 </div>
