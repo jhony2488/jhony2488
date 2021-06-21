@@ -29,37 +29,44 @@ If you want to know more about me, you can access my  <a href="https://jhonyarau
    Frameworks CSS:
 </h3>
 <div align="center">
- <img src="https://raw.githubusercontent.com/jhony2488/images/master/bootstrap_plain_wordmark_logo_icon_146620.png" height="120px" width="120px" /> 
+<a href="https://getbootstrap.com/" align="center">Bootstrap</a>
+ <br/>
 </div>
 
 <h3 align="center">
    Frameworks JavaScript:
 </h3>
-<div align="center">
- <img src="https://raw.githubusercontent.com/jhony2488/images/master/vuejs_original_wordmark_logo_icon_146305.png" height="90px" width="90px" /> 
-  <img src="https://raw.githubusercontent.com/jhony2488/images/master/file_type_nuxt_icon_130293.png" height="90px" width="90px" /> 
+<div align="center"> 
+    <a href="https://vuejs.org/" align="center">Vue.js</a>
+ <br/>
+  <a href="https://nuxtjs.org/" align="center">Nuxt.js</a>
+ <br/>
 </div>
 
 <h3 align="center">
    JavaScript Runtime
 </h3>
 <div align="center">
- <img src="https://raw.githubusercontent.com/jhony2488/images/master/nodejs_original_wordmark_logo_icon_146412.png" height="120px" width="120px" />
+  <a href="https://nodejs.org/en/" align="center">Node.js</a>
+ <br/>
 </div>
 
  <h3 align="center">
-    Development Tools:
+    CMS(Sistemas de gerenciamentos de conteúdo):
 </h3>
 <div align="center">
- <img src="https://raw.githubusercontent.com/jhony2488/images/master/wordpress_icon-icons.com_53600.png" height="120px" width="120px" />
+ <a href="https://wordpress.org/" align="center">Wordpress</a>
+ <br/>
 </div>
 
 <h3 align="center">
    Databases
 </h3>
-<div align="center">
- <img src="https://raw.githubusercontent.com/jhony2488/images/master/mysql_original_wordmark_logo_icon_146417.png" height="120px" width="120px" /> 
- <img src="https://github.com/jhony2488/images/blob/master/mongodb_original_wordmark_logo_icon_146425.png" height="120px" width="120px" /> 
+<div align="center"> 
+    <a href="https://www.mysql.com/" align="center">MySQL</a>
+ <br/>
+        <a href="https://www.mongodb.com/" align="center">MongoDB</a>
+ <br/>
 </div>
 
 <h2 align="center">
@@ -67,7 +74,7 @@ If you want to know more about me, you can access my  <a href="https://jhonyarau
 </h2>
 
 <div align="center">
-Twitter:<a href="https://twitter.com/JhonyAraujoDev" align="center">Twitter</a>
+<a href="https://twitter.com/JhonyAraujoDev" align="center">Twitter</a>
  <br/>
 <a href="https://www.linkedin.com/in/jhonatavinicius2488/">Linkedin</a>
       <br/>
@@ -81,8 +88,11 @@ Twitter:<a href="https://twitter.com/JhonyAraujoDev" align="center">Twitter</a>
 <h2 align="center">
     👁‍🗨 Como entrar em contato comigo?  
 </h2>
+<div align="center">
 <a href="https://api.whatsapp.com/send?phone=5581983708177">WhatsApp</a>
-<a href="https://join.skype.com/invite/v9azzgZrhpWh"><img src="https://raw.githubusercontent.com/jhony2488/images/master/skype%20(1).png" height="60px" width="60px" /></a>
+<a href="https://join.skype.com/invite/v9azzgZrhpWh">Skype</a>
+</div>
+
 
 
 
