@@ -42,9 +42,9 @@ Estas são as tecnologias que uso
 <div align="center"> 
     <a href="https://vuejs.org/" align="center">Vue.js</a>,
   <a href="https://nuxtjs.org/" align="center">Nuxt.js</a>,
-      <a href="https://nuxtjs.org/" align="center">React.js</a>,
-      <a href="https://nuxtjs.org/" align="center">Next.js</a>,
-          <a href="https://nuxtjs.org/" align="center">React Native</a>,
+      <a href="https://pt-br.reactjs.org/" align="center">React.js</a>,
+      <a href="https://nextjs.org/" align="center">Next.js</a>,
+          <a href="https://reactnative.dev/" align="center">React Native</a>,
 </div>
 
 <h3 align="center">
