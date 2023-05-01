@@ -4,11 +4,11 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="notebook lee">
 
-- ⚛&nbsp;JavaScript Developer
+- ⚛&nbsp;FullStack Developer
 
 - 👨🏻‍💻&nbsp; I’m always studying **JavaScript,TypeScript, Vue.js React, React Native and NodeJS**
 
-- 💬&nbsp; Call me on Linkedin if you want to chat. [Linkedin](https://www.linkedin.com/in/liandrowesley)
+- 💬&nbsp; Call me on Linkedin if you want to chat. [Linkedin](https://www.linkedin.com/in/jhonatavinicius2488/)
 
 <br>
 
