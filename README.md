@@ -106,7 +106,7 @@ Estas são as tecnologias que uso
 
 - ⚛&nbsp;JavaScript Developer
 
-- 👨🏻‍💻&nbsp; I’m always studying **JavaScript, React, React Native and NodeJS**
+- 👨🏻‍💻&nbsp; I’m always studying **JavaScript,TypeScript, Vue.js React, React Native and NodeJS**
 
 - 💬&nbsp; Call me on Linkedin if you want to chat. [Linkedin](https://www.linkedin.com/in/liandrowesley)
 
@@ -115,6 +115,7 @@ Estas são as tecnologias que uso
 ## 🛠 &nbsp;Tech Stack
 
 ![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue-05122A?style=for-the-badge&logo=vue)&nbsp;
 ![React Native](https://img.shields.io/badge/React_Native-05122A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript)&nbsp;
