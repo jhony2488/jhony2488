@@ -43,6 +43,9 @@
 <a href="https://www.linkedin.com/in/jhonyaraujo/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-05122A?style=for-the-badge&logo=linkedin" alt="linkedin"/>
 </a> 
+<a href="https://www.instagram.com/jhony.dev.oficial/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Instagram-05122A?style=for-the-badge&logo=instagram" alt="instagram"/>
+</a> 
   <a href="https://dev.to/jhonyaraujooficial" target="_blank">
   <img align="center" src="https://img.shields.io/badge/dev.to-05122A?style=for-the-badge&logo=devdotto&logoColor=white" alt="My Blog"/>
 </a>
