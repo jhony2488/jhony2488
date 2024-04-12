@@ -40,13 +40,13 @@
 
 ##
 
-<a href="https://www.linkedin.com/in/jhonatavinicius2488/" target="_blank">
+<a href="https://www.linkedin.com/in/jhonyaraujo/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-05122A?style=for-the-badge&logo=linkedin" alt="linkedin"/>
-</a>
+</a> 
   <a href="https://dev.to/jhonyaraujooficial" target="_blank">
   <img align="center" src="https://img.shields.io/badge/dev.to-05122A?style=for-the-badge&logo=devdotto&logoColor=white" alt="My Blog"/>
 </a>
-  <a href="https://www.behance.net/jhonyaraujo" target="_blank">
+  <a href="https://www.behance.net/jhonyaraujoelemental" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Behance-05122A?style=for-the-badge&logo=behance&logoColor=white" alt="My behance profile"/>
 </a>
   </a>
